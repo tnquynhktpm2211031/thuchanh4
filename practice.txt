@@ -1,0 +1,2 @@
+Bai thuc hanh Git - To Nhu Quynh
+Muc tieu: thuc hanh commit, branch, merge va GitHub.
